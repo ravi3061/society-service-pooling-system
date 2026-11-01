@@ -1,0 +1,15 @@
+# Generated Java output
+bin/
+*.class
+# Local records, temporary files and backups
+data/
+*.dat
+*.tmp
+*.bak
+# Secrets and local machine files
+.env
+.env.*
+!.env.example
+.DS_Store
+Thumbs.db
+*.log
